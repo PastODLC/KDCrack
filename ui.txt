@@ -1,5 +1,4 @@
 AliveCheck:true|Alive Check
-Test:true|Test
 Ammo:true|Unlimited Ammo
 BulletNuke:false|Bullet Nuke
 FastGame:true|Fast Game [Host]
